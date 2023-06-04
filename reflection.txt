@@ -1,0 +1,28 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+
+In the test_chemistry project, the power of functions allows me to make a test function to make sure that the formula or the codes
+that I made are accurate and correct. Without the functions I would have to test everything one by one manually just to make sure
+that the program is running and the program will produce the correct results. Also, programming without using functions would make
+the whole program not easy to read and would make some things redundant.
+
+2. In your judgment, what is the value of test functions?
+
+Test functions are highly valuable. Test functions allow us to validate the correctness and the efficiency of our functions. I have
+witnessed how valuable using test functions are. You can create complex formulas in your code and test if the formula is working 
+using the test function.
+
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+
+The first thing that I do is to read the error message. Reading and understanding the error message would most likely
+help you fix the problem in your codes. Then I would go into that line of code and look very carefully for the error
+and fix it. Test the program again if the program shows another error, I would use the debugging method to look for the error.
+One thing I can do to improve my process is to debug first the program. Debugging is a great skill that every programmer should 
+know and I want to improve on that skill as well.
+
+
