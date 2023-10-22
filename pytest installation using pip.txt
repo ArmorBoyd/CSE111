@@ -1,0 +1,28 @@
+Steps
+Do the following:
+
+Open a new terminal frame in VS Code by doing the following:
+Open VS Code
+On the menu bar for VS Code, click "Terminal"
+On the menu, click "New Terminal"
+This will open a terminal frame at the bottom of the VS Code window. A terminal is a window or frame where a user can type and execute computer commands.
+
+Copy and paste the following command into the terminal frame and execute the command by pressing the Enter key. 
+This command will upgrade pip and several other parts of the Python installation modules so that pip will work correctly.
+
+Mac OS users:
+python3 -m pip install --user --upgrade pip setuptools wheel
+
+Windows users:
+python -m pip install --user --upgrade pip setuptools wheel
+
+If your computer is running the Windows operating system, and the above command doesn’t work on your computer, try the py command instead of the python command like this:
+py -m pip install --user --upgrade pip setuptools wheel
+
+Install the pytest module by copying, pasting, and executing the following command in the terminal frame.
+Mac OS users:
+python3 -m pip install --user pytest
+Windows users:
+python -m pip install --user pytest
+If your computer is running the Windows operating system, and the above command doesn’t work on your computer, try the py command instead of the python command like this:
+py -m pip install --user pytest
